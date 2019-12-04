@@ -1,3 +1,3 @@
-# booking-reference-implementation-php-test
+# models-php-test
 
 A simple PHP app for testing the OA PHP libraries
